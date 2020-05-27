@@ -1,2 +1,0 @@
-# Answers
-Coursera course answers
